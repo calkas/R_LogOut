@@ -6,7 +6,8 @@ Example:
 #include <iostream>
 #include "R_LogOut.hpp"
 
-int main(int argc, char** argv) {
+int main(int argc, char** argv)
+{
 	
 	R_LogOut Log;
 	Log.Info("Hello");
