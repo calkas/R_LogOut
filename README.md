@@ -4,6 +4,7 @@ Own LogOut Console
 
 Example:
 
+Include:
 #include "R_LogOut.hpp"
 
 Object:
